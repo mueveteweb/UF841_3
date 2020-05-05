@@ -1,0 +1,15 @@
+crear nuevo git.
+(cuenta git "soyuncaxondo@gmail.com" "pass +?" y otra pass 123456)
+
+ir a github
+
+crear el proyecto
+
+gitbash: ls
+mkdir "loquesea"
+cd "loquesea"
+
+git init
+
+cd..
+git add .
